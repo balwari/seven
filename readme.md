@@ -4,7 +4,7 @@ composer install
 
 php artisan serve
 
-create database with name products
+create database with name seven
 
 php artisan migrate
 
